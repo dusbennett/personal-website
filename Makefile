@@ -1,1 +1,0 @@
-GO_BUILD_ENV := GOOS=linux GOARCH=amd64
