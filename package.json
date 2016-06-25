@@ -12,11 +12,11 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "go run server.go"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/dbennett63/dustworks-professional-website.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   ],
   "author": "petehunt",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/dbennett63/dustworks-professional-website/issues"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial",
+  "homepage": "https://github.com/dbennett63/dustworks-professional-website",
   "engines" : {
     "node" : "0.12.x"
   }
