@@ -1,1 +1,1 @@
-web: ./dustin-bennett -port $PORT
+web: dustworks-professional-website
