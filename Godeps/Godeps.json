@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/heroku/go-getting-started",
+	"ImportPath": "https://github.com/dbennett63/dustworks-professional-website",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Deps": [
