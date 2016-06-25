@@ -1,1 +1,1 @@
-web: dustin-bennett
+web: go run server.go
