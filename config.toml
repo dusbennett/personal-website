@@ -2,7 +2,7 @@
 baseurl = "http://dustinbennett.net/"
 languageCode = "en-us"
 title = "Dustin Bennett"
-theme = "hugo-freelancer-theme"
+theme = "hugo-freelancer-theme-custom"
 
 
 [params]
@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
+    name = "Dustin Bennett"
+    description = "Personal site"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -36,7 +36,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "CircleHeadshot.png"
         name = "Dustin Bennett"
-        subtitle = "Cloud - Mobile - Strategy"
+        subtitle = "Technology - Strategy - Operations"
 
 
     [params.portfolio]
@@ -56,31 +56,31 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # TODO: fill in this text
-        left = "Left about me text."
-        right = "Right about me text."
+        left = "Intellectually curious technical leader with proven track record in startup and large enterprise environments. Extensive experience in cloud and mobile technologies. Passion for efficiency and continuous improvement."
+        right = "Adept at consensus building, influencing without authority, and negotiations. Leader for digital transformation and move to internal and public cloud. "
 
-    [params.contact]
-        title = "Contact"
+#    [params.contact]
+#        title = "Contact"
 
         # 'error' defines error messages for invalid inputs
-        [params.contact.form.name]
-            text = "Name"
-            error = "Please enter your name."
+#        [params.contact.form.name]
+#            text = "Name"
+#            error = "Please enter your name."
 
-        [params.contact.form.email]
-            text = "Email Address"
-            error = "Please enter your email address."
+#        [params.contact.form.email]
+#            text = "Email Address"
+#            error = "Please enter your email address."
 
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
+#        [params.contact.form.phone]
+#            text = "Phone Number"
+#            error = "Please enter your phone number."
 
-        [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
+#        [params.contact.form.message]
+#            text = "Message"
+#            error = "Please enter a message."
 
-        [params.contact.form.button]
-            text = "Send"
+#        [params.contact.form.button]
+#            text = "Send"
 
 
     [params.footer]
@@ -89,28 +89,28 @@ theme = "hugo-freelancer-theme"
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["Atlanta, GA"]
+            address = ["Boston, MA"]
 
         [params.footer.social]
             title = "Around the web"
             # TODO: update with social links
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = "https://github.com/dusbennett"
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                link=  "https://stackoverflow.com/users/593014/dbennett63"
 
 
             [[params.footer.social.networks]]
                 icon = "fa-linkedin"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                link=  "https://www.linkedin.com/in/dusbennett/"
 
 
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                link=  "https://twitter.com/dusbennett"
 
         [params.footer.credits]
             title = "About Site"
