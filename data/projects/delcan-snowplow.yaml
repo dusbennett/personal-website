@@ -3,6 +3,6 @@ title: Delcan
 date: 2006-09-24
 img: delcan-snowplow.png
 client: Mobile Data Controller
-clientLink: "#"
-category: VB6, Java EE
-description: Worked on mobile fleet management computers.
+clientLink: "http://delcantechnologies.com/mobile-data-tracking/"
+category: VB .NET, VB6, embedded systems, hardware design
+description: I designed, implemented, installed, and commissioned systems for many clients. The overall solution was built around an open protocol for ease of integration with existing systems. The backend and user interfact was fully customizeable, allowing for adaptation to distinct fleet types, including snow plows, emergency response vehicles, and taxis. The base software ran in kiosk mode on windows embedded OS. The unit included embedded digital and analog controllers to that the unit could be attached to various peripheral in vehicles such as plow blades, spreader controllers, signs and lights.

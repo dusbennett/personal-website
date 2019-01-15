@@ -47,9 +47,9 @@ theme = "hugo-freelancer-theme-custom"
         title = "Experience"
 
         [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
+            client = "Company"
+            date = "Time range"
+            category = "Skills"
             buttontext = "Close"
 
 
@@ -84,7 +84,7 @@ theme = "hugo-freelancer-theme-custom"
 
 
     [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+        copyright = ""
 
         [params.footer.location]
             title = "Location"
@@ -100,7 +100,7 @@ theme = "hugo-freelancer-theme-custom"
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
-                link=  "https://stackoverflow.com/users/593014/dbennett63"
+                link=  "https://stackoverflow.com/users/593014/dusbennett"
 
 
             [[params.footer.social.networks]]
@@ -112,6 +112,6 @@ theme = "hugo-freelancer-theme-custom"
                 icon = "fa-twitter"
                 link=  "https://twitter.com/dusbennett"
 
-        [params.footer.credits]
-            title = "About Site"
-            text = "Built using Hugo Freelancer Theme. Icons made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)"
+        #[params.footer.credits]
+        #    title = "About Site"
+        #    text = "Built using Hugo Freelancer Theme. Icons made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)"
