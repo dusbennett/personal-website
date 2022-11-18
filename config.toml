@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://dustinbennett.net/"
+baseurl = "https://dustinbennett.net/"
 languageCode = "en-us"
 title = "Dustin Bennett"
 theme = "hugo-freelancer-theme-custom"
@@ -31,7 +31,6 @@ theme = "hugo-freelancer-theme-custom"
     [params.navigation]
         brand = "Dustin Bennett"
 
-
     [params.header]
         # Copy your own image into './static/img/'' if you wish
         image = "CircleHeadshot.png"
@@ -44,43 +43,43 @@ theme = "hugo-freelancer-theme-custom"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Experience"
+       title = "Experience"
 
         [params.portfolio.modal]
-            client = "Company"
+            client = "Domain"
             date = "Time range"
             category = "Skills"
             buttontext = "Close"
 
-
     [params.about]
         title = "About"
-        # TODO: fill in this text
         left = "Intellectually curious technical leader with proven track record in startup and large enterprise environments. Extensive experience in cloud and mobile technologies. Passion for efficiency and continuous improvement."
         right = "Adept at consensus building, influencing without authority, and negotiations. Leader for digital transformation and move to internal and public cloud. "
+        bottom = "Dustin is available for corporate board positions, public speaking, and limited consulting engagements. For information on rates and availability, please reach out on LinkedIn or Twitter."
 
-#    [params.contact]
-#        title = "Contact"
 
-        # 'error' defines error messages for invalid inputs
-#        [params.contact.form.name]
-#            text = "Name"
-#            error = "Please enter your name."
+    #[params.contact]
+    #   title = "Contact"
+    #   reason = "Dustin is available for corporate board positions, public speaking, and limited consulting engagements. Please submit an inquiry."
 
-#        [params.contact.form.email]
-#            text = "Email Address"
-#            error = "Please enter your email address."
+    #    [params.contact.form.name]
+    #        text = "Name"
+    #        error = "Please enter your name."
 
-#        [params.contact.form.phone]
-#            text = "Phone Number"
-#            error = "Please enter your phone number."
+    #    [params.contact.form.email]
+    #        text = "Email Address"
+    #        error = "Please enter your email address."
 
-#        [params.contact.form.message]
-#            text = "Message"
-#            error = "Please enter a message."
+    #    [params.contact.form.phone]
+    #        text = "Phone Number"
+    #        error = "Please enter your phone number."
 
-#        [params.contact.form.button]
-#            text = "Send"
+    #    [params.contact.form.message]
+    #        text = "Message"
+    #        error = "Please enter a message."
+
+    #    [params.contact.form.button]
+    #        text = "Send"
 
 
     [params.footer]
